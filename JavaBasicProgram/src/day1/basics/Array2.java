@@ -1,7 +1,7 @@
 package day1.basics;
 
 import java.util.Arrays;
-
+//hello
 public class Array2 {
 
 	public static void main(String[] args) {
